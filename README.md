@@ -25,6 +25,7 @@ The code consists of a create_window function which initializes the main window,
 **Example GUI Layout: -**
 ![image](https://github.com/Rishabh-kj/GUI_BODMAS_CALCULATOR/assets/132807853/9215a0ec-c98d-4b0a-86e7-d66681eb665b)
 
+
 **Possible Future Enhancements: -**
 - Extending Functionality: Support for more complex mathematical operations and functions can be added.
 - Input Validation: Enhanced input validation can be incoporated to prevent invalid expressions from being entered.
