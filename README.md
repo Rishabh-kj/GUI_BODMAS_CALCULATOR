@@ -23,6 +23,7 @@ The code consists of a create_window function which initializes the main window,
   -> equaler(): Evaluates the expression in the input area and displays the result or an error message.
 
 **Example GUI Layout: -**
+
 ![image](https://github.com/Rishabh-kj/GUI_BODMAS_CALCULATOR/assets/132807853/9215a0ec-c98d-4b0a-86e7-d66681eb665b)
 
 
