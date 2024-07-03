@@ -9,7 +9,7 @@ A simple **BODMAS (Bracket, Order, Division, Multiplication, Addition, Subtracti
 - Clear and Backspace: Provides buttons to clear the entire input or delete the last character.
 - Exit Button: Allows users to exit the application gracefully.
 
-**Code Structure: -**
+**Code Structure:**
 The code consists of a create_window function which initializes the main window, sets up the input area, and defines all the buttons along with their functionalities.
 
 **Main Components: -**
